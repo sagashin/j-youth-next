@@ -1,0 +1,6 @@
+{
+  "name": "J-YOUTH NEXT — 高校サッカー進路・内申診断＆スカウトプラットフォーム",
+  "description": "中学生クラブチーム選手（GRANDE FC等）と保護者のための、高校サッカー推薦・内申点シミュレーション・施設＆寮比較・部活動画・先輩体験談・スカウト交渉プラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
